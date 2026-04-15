@@ -1,0 +1,7 @@
+id,cliente,tipo,valor,data
+1,Joao,credito,100.50,2026-01-01
+2,Maria,debito,50.00,2026-01-02
+3,EmpresaX,credito,1000.00,2026-01-03
+4,Ana,debito,75.20,2026-01-04
+5,EmpresaY,credito,2500.00,2026-01-05
+6,Carlos,debito,120.00,2026-01-06
